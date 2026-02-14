@@ -29,3 +29,7 @@ cat api.json | jsonpretty -c
 ```
 go install github.com/clarabennett2626/jsonpretty@latest
 ```
+
+## Contributing
+
+Pull requests welcome!
