@@ -1,3 +1,3 @@
-module github.com/clarabennett2626/jsonpretty
+module github.com/clarabennettdev/jsonpretty
 
 go 1.22.0
